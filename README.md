@@ -6,6 +6,12 @@ See test_main.sh for example usage.
 
 # Install 
 
+Curl Install
+
+`curl -s https://raw.githubusercontent.com/legion0/shlibmanager/master/curl_install.sh | bash`
+
+Local install
+
 `./install.sh`
 
 Will install a copy of `shlibmanager.sh` into `${HOME}/.local/lib/shlibmanager/shlibmanager.sh`
